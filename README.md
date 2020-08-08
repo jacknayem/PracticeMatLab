@@ -1,5 +1,4 @@
 ## Basic Operation
-
 Start with printig 'Hello word'
 ```matlab
 fprintf('Hello MatLab\n')
