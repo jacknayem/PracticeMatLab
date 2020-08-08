@@ -3,7 +3,10 @@ Start with printig 'Hello word'
 ```matlab
 fprintf('Hello MatLab\n')
 ```
-**Output:** *Hello MatLab*
+**Output:** 
+```
+Hello MatLab
+```
 
 ### Mathematical Expression
 ```matlab
@@ -14,13 +17,15 @@ fprintf('45/6 = %.2f\n',45/6)
 fprintf('45*6 = %d\n',45*6)
 fprintf('45%%4 = %d\n',mod(45,4))
 ```
-The Output is:  
-*5+6 = 10  
-12-45 = -33  
-45/6 = 7.500000  
-45/6 = 7.50  
-45*6 = 270  
-45%6 = 1*
+**Output:**  
+```
+5+6 = 10
+12-45 = -33
+45/6 = 7.500000
+45/6 = 7.50
+45*6 = 270
+45%6 = 1
+```
 
 ### Logical Expression
 ```matlab
