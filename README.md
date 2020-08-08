@@ -55,14 +55,17 @@ a = 45;
 b = 45
 %Creating conditional statement
 if a == b
-    disp('a is equal to b');
+    disp('A is equal to b');
 elseif a ~= b
-    disp('a is not equal to b')
+    disp('A is not equal to b')
 else
     disp('Other')
 end
 ```
-**Output:** *a is equal to b*
+**Output:** 
+```
+A is equal to b
+```
 ```matlab
 t = 1
 f = 0
@@ -77,8 +80,10 @@ else
 end
 ```
 **Output:**  
-*if both condition is ture then it''s true  
-if one condition is true then it''s true*
+```
+if both condition is ture then it''s true
+if one condition is true then it''s true
+```
 
 ### Define Matrix
 
