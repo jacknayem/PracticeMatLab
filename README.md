@@ -39,13 +39,15 @@ fprintf('1 XOR 0 Operation is %d (0 = Flase and 1 = True)\n', xor(1,0))
 ```
 
 **Output:**  
-*45 == 45 Operation is 1 (0 = Flase and 1 = True)  
-45 ~= 45 Operation is 0 (0 = Flase and 1 = True)  
-0 AND 1 Operation is 0 (0 = Flase and 1 = True)  
-1 AND 1 Operation is 1 (0 = Flase and 1 = True)  
-0 OR 0 Operation is 0 (0 = Flase and 1 = True)  
-1 OR 1 Operation is 1 (0 = Flase and 1 = True)  
-1 XOR 0 Operation is 1 (0 = Flase and 1 = True)*
+```
+45 == 45 Operation is 1 (0 = Flase and 1 = True)
+45 ~= 45 Operation is 0 (0 = Flase and 1 = True)
+0 AND 1 Operation is 0 (0 = Flase and 1 = True)
+1 AND 1 Operation is 1 (0 = Flase and 1 = True)
+0 OR 0 Operation is 0 (0 = Flase and 1 = True)
+1 OR 1 Operation is 1 (0 = Flase and 1 = True)
+1 XOR 0 Operation is 1 (0 = Flase and 1 = True)
+```
 
 ```matlab
 %Assign variable
