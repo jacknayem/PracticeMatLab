@@ -15,12 +15,12 @@ fprintf('45*6 = %d\n',45*6)
 fprintf('45%%4 = %d\n',mod(45,4))
 ```
 The Output is:  
-***5+6 = 10  
+*5+6 = 10  
 12-45 = -33  
 45/6 = 7.500000  
 45/6 = 7.50  
 45*6 = 270  
-45%6 = 1**
+45%6 = 1*
 
 ### Logical Expression
 ```matlab
@@ -34,13 +34,13 @@ fprintf('1 XOR 0 Operation is %d (0 = Flase and 1 = True)\n', xor(1,0))
 ```
 
 **Output:**  
-***45 == 45 Operation is 1 (0 = Flase and 1 = True)  
+*45 == 45 Operation is 1 (0 = Flase and 1 = True)  
 45 ~= 45 Operation is 0 (0 = Flase and 1 = True)  
 0 AND 1 Operation is 0 (0 = Flase and 1 = True)  
 1 AND 1 Operation is 1 (0 = Flase and 1 = True)  
 0 OR 0 Operation is 0 (0 = Flase and 1 = True)  
 1 OR 1 Operation is 1 (0 = Flase and 1 = True)  
-1 XOR 0 Operation is 1 (0 = Flase and 1 = True)***
+1 XOR 0 Operation is 1 (0 = Flase and 1 = True)*
 
 ```matlab
 %Assign variable
@@ -70,8 +70,8 @@ else
 end
 ```
 **Output:**  
-***if both condition is ture then it''s true  
-if one condition is true then it''s true***
+*if both condition is ture then it''s true  
+if one condition is true then it''s true*
 
 ### Define Matrix
 
